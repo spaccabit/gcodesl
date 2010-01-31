@@ -1,0 +1,11 @@
+C:\Users\Gurwinder\Desktop\VC#\SmartMTG\DraftMaster\ScriptingLanguage\ScriptingLanguage\bin\Debug\ScriptingLanguage.dll
+C:\Users\Gurwinder\Desktop\VC#\SmartMTG\DraftMaster\ScriptingLanguage\ScriptingLanguage\bin\Debug\ScriptingLanguage.pdb
+C:\Users\Gurwinder\Desktop\VC#\SmartMTG\DraftMaster\ScriptingLanguage\ScriptingLanguage\bin\Debug\gInclude.dll
+C:\Users\Gurwinder\Desktop\VC#\SmartMTG\DraftMaster\ScriptingLanguage\ScriptingLanguage\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gurwinder\Desktop\VC#\SmartMTG\DraftMaster\ScriptingLanguage\ScriptingLanguage\obj\Debug\ScriptingLanguage.dll
+C:\Users\Gurwinder\Desktop\VC#\SmartMTG\DraftMaster\ScriptingLanguage\ScriptingLanguage\obj\Debug\ScriptingLanguage.pdb
+C:\Users\Gurwinder\Desktop\VC#\ScriptingLanguage\ScriptingLanguage\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Gurwinder\Desktop\VC#\ScriptingLanguage\ScriptingLanguage\obj\Debug\ScriptingLanguage.dll
+C:\Users\Gurwinder\Desktop\VC#\ScriptingLanguage\ScriptingLanguage\obj\Debug\ScriptingLanguage.pdb
+C:\Users\Gurwinder\Desktop\VC#\ScriptingLanguage\ScriptingLanguage\bin\Debug\ScriptingLanguage.dll
+C:\Users\Gurwinder\Desktop\VC#\ScriptingLanguage\ScriptingLanguage\bin\Debug\ScriptingLanguage.pdb
