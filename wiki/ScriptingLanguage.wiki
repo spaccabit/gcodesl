@@ -1,4 +1,5 @@
 #summary The main, most important part of gCode SL
+#labels Featured
 
 = Definition =
 ScriptingLanguage is the constructor that contains, executes, and creates the scripting language, and defines certain customizable aspects.
