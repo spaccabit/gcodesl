@@ -7,6 +7,8 @@ Things that need to be changed in the code. Format: *Class.MethodName*: _Old Cod
 
 
 = Details =
+Switch the names of mConvert_DoubleToInt and mConvert_StringToInt in the constructors
+
 *ScriptingLanguage.ScriptParser.OperateParam*:
 _
 index += param.Key.Length;
