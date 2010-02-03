@@ -7,31 +7,4 @@ Things that need to be changed in the code. Format: *Class.MethodName*: _Old Cod
 
 
 = Details =
-Switch the names of mConvert_DoubleToInt and mConvert_StringToInt in the constructors
-
 Add in support so that negative numbers can be parsed properly; have it so -? evaluates to 0 - ?.
-
-*ScriptingLanguage.ScriptParser.OperateParam*:
-_
-index += param.Key.Length;
-_
-->
-_
-index += param.Key.Length;
-if (index >= toParse.Length)
-   break;
-_
-*ScriptUtility.GetPassedIParmaters*:
-_
-for (int i = 0; i < tmp.Length; i++)
-   tmp[i] = tmp[i].Trim();
-_
-->
-_
-List<string> passed = new List<string>();
-foreach (string str in tmp)
-{
-   if (!string.IsNullOrEmpty(str.Trim()))
-      passed.Add(str.Trim());
-}
-_
