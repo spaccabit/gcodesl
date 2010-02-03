@@ -1,0 +1,19 @@
+#summary Things that need to be changed in the code.
+#labels Deprecated
+
+= Introduction =
+
+Things that need to be changed in the code. Format: *Class.MethodName*: _Old Code Snippet_ -> _New Code Snippet_
+
+
+= Details =
+*ScriptingLanguage.ScriptParser.OperateParam*:
+_
+index += param.Key.Length;
+_
+->
+_
+index += param.Key.Length;
+if (index >= toParse.Length)
+   break;
+_
