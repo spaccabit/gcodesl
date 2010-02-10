@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<IDE>
+  <name>Scripting Language</name>
+  <variables amount="4">
+    <parameter name="Bool" description="A boolean represents a true or false piece of information." />
+    <parameter name="Int" description="An int represents a integer between -2147483648 and 2147483647" />
+    <parameter name="Double" description="An double represents a number between -1.79769313486232E+308 and 1.79769313486232E+308" />
+    <parameter name="String" description="A string is used to represent letters, numbers, and so on. Begin with a &quot; and end it with a &quot;." />
+  </variables>
+  <functions amount="15">
+    <method name="Generic.RandomInt" description="no info">
+      <req-param>Int</req-param>
+    </method>
+    <method name="Generic.RandomDouble" description="no info">
+      <req-param>Double</req-param>
+    </method>
+    <method name="Generic.MessageBox" description="no info">
+      <req-param>String</req-param>
+      <opt-param>String</opt-param>
+    </method>
+    <method name="Convert.BoolToDouble" description="no info">
+      <req-param>Bool</req-param>
+    </method>
+    <method name="Convert.BoolToInt" description="no info">
+      <req-param>Bool</req-param>
+    </method>
+    <method name="Convert.BoolToString" description="no info">
+      <req-param>Bool</req-param>
+    </method>
+    <method name="Convert.DoubleToBool" description="no info">
+      <req-param>Double</req-param>
+    </method>
+    <method name="Convert.DoubleToInt" description="no info">
+      <req-param>Double</req-param>
+    </method>
+    <method name="Convert.DoubleToString" description="no info">
+      <req-param>Double</req-param>
+    </method>
+    <method name="Convert.IntToBool" description="no info">
+      <req-param>Int</req-param>
+    </method>
+    <method name="Convert.IntToDouble" description="no info">
+      <req-param>Int</req-param>
+    </method>
+    <method name="Convert.IntToString" description="no info">
+      <req-param>Int</req-param>
+    </method>
+    <method name="Convert.StringToBool" description="no info">
+      <req-param>String</req-param>
+    </method>
+    <method name="Convert.StringToInt" description="no info">
+      <req-param>String</req-param>
+    </method>
+    <method name="Convert.StringToDouble" description="no info">
+      <req-param>String</req-param>
+    </method>
+  </functions>
+</IDE>
