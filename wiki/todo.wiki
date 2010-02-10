@@ -47,5 +47,7 @@ if (i == ops.Count - 1 && (ops[i] == m_opBool[0] || ops[i] == m_opBool[1]))
 _
 
 *ScriptingLanguage.EvaluateBool*:
+
 _if (!vars[i] && vars[i + 1])_
 _if (!(vars[i] && vars[i + 1]))_
+By default, return false.
