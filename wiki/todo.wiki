@@ -51,3 +51,7 @@ _
 _if (!vars[i] && vars[i + 1])_
 _if (!(vars[i] && vars[i + 1]))_
 By default, return false.
+
+*IDE.PrintTextFileHandler*:
+
+Replace all instances of 'count' with 'i'
