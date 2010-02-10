@@ -10,6 +10,7 @@ Things that need to be changed in the code. Format: *Class.MethodName*: _Old Cod
 Add in support so that negative numbers can be parsed properly; have it so -? evaluates to 0 - ?.
 
 *ScriptingLanguage.OperateBool*: Add in this before the other parsing.
+
 _if (noOps[i].ToLower() == "true" || noOps[i].ToLower() == "false")
 {
     vals.Add(i, new pBool(Parse.String2Bool(noOps[i])));
@@ -17,6 +18,7 @@ _if (noOps[i].ToLower() == "true" || noOps[i].ToLower() == "false")
 }_
 
 *ScriptingLanguage.OperateParam*:
+
 New code for m_vars & m_interactvars
 _
 if (!toParse.ToLower().Contains(param.Key))
@@ -26,6 +28,7 @@ while ((index = toParse.ToLower().IndexOf(param.Key, index)) != -1)
 _
 
 *ScriptingLanguage.EvaluateBool*:
+
 New code for first layer of parsing
 _
 bool isTrue = false;
@@ -39,6 +42,8 @@ else if (ops[i] != m_opBool[0] && ops[i] != m_opBool[1])
 else
   isTrue = (bool)values[i].Data;
 vars.Add(isTrue);
+if (i == ops.Count - 1 && (ops[i] == m_opBool[0] || ops[i] == m_opBool[1]))
+  vars.Add((bool)values[i + 1].Data);
 _
 
 *ScriptingLanguage.EvaluateBool*:
