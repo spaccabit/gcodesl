@@ -1,0 +1,6 @@
+C:\Users\Gurwinder\Desktop\VC#\ScriptingLanguage\ScriptingLanguage\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Gurwinder\Desktop\VC#\ScriptingLanguage\ScriptingLanguage\bin\Release\ScriptingLanguage.dll
+C:\Users\Gurwinder\Desktop\VC#\ScriptingLanguage\ScriptingLanguage\bin\Release\ScriptingLanguage.pdb
+C:\Users\Gurwinder\Desktop\VC#\ScriptingLanguage\ScriptingLanguage\bin\Release\gInclude.dll
+C:\Users\Gurwinder\Desktop\VC#\ScriptingLanguage\ScriptingLanguage\obj\Release\ScriptingLanguage.dll
+C:\Users\Gurwinder\Desktop\VC#\ScriptingLanguage\ScriptingLanguage\obj\Release\ScriptingLanguage.pdb
