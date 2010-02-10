@@ -1,0 +1,13 @@
+C:\Users\Gurwinder\Desktop\VC#\gCode\gCode\bin\Debug\gCodeIDE.exe
+C:\Users\Gurwinder\Desktop\VC#\gCode\gCode\bin\Debug\gCodeIDE.pdb
+C:\Users\Gurwinder\Desktop\VC#\gCode\gCode\bin\Debug\gInclude.dll
+C:\Users\Gurwinder\Desktop\VC#\gCode\gCode\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gurwinder\Desktop\VC#\gCode\gCode\obj\x86\Debug\gCodeIDE.IDEMain.resources
+C:\Users\Gurwinder\Desktop\VC#\gCode\gCode\obj\x86\Debug\gCodeIDE.Properties.Resources.resources
+C:\Users\Gurwinder\Desktop\VC#\gCode\gCode\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Gurwinder\Desktop\VC#\gCode\gCode\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Gurwinder\Desktop\VC#\gCode\gCode\obj\x86\Debug\gCodeIDE.exe
+C:\Users\Gurwinder\Desktop\VC#\gCode\gCode\obj\x86\Debug\gCodeIDE.pdb
+C:\Users\Gurwinder\Desktop\VC#\gCode\gCode\obj\x86\Debug\gCodeIDE.Module.resources
+C:\Users\Gurwinder\Desktop\VC#\gCode\gCode\bin\Debug\gCode SL.dll
+C:\Users\Gurwinder\Desktop\VC#\gCode\gCode\bin\Debug\gCode SL.pdb

@@ -1,0 +1,12 @@
+C:\Users\Gurwinder\Desktop\VC#\gCode\gCode\bin\Debug\gCode.exe
+C:\Users\Gurwinder\Desktop\VC#\gCode\gCode\bin\Debug\gCode.pdb
+C:\Users\Gurwinder\Desktop\VC#\gCode\gCode\bin\Debug\gInclude.dll
+C:\Users\Gurwinder\Desktop\VC#\gCode\gCode\bin\Debug\ScriptingLanguage.dll
+C:\Users\Gurwinder\Desktop\VC#\gCode\gCode\bin\Debug\ScriptingLanguage.pdb
+C:\Users\Gurwinder\Desktop\VC#\gCode\gCode\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Gurwinder\Desktop\VC#\gCode\gCode\obj\x86\Debug\gCode.Properties.Resources.resources
+C:\Users\Gurwinder\Desktop\VC#\gCode\gCode\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Gurwinder\Desktop\VC#\gCode\gCode\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Gurwinder\Desktop\VC#\gCode\gCode\obj\x86\Debug\gCode.exe
+C:\Users\Gurwinder\Desktop\VC#\gCode\gCode\obj\x86\Debug\gCode.pdb
+C:\Users\Gurwinder\Desktop\VC#\gCode\gCode\obj\x86\Debug\gCode.IDEMain.resources
