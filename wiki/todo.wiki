@@ -40,3 +40,7 @@ else
   isTrue = (bool)values[i].Data;
 vars.Add(isTrue);
 _
+
+*ScriptingLanguage.EvaluateBool*:
+_if (!vars[i] && vars[i + 1])_
+_if (!(vars[i] && vars[i + 1]))_
