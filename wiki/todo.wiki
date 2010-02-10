@@ -28,6 +28,14 @@ _
 *ScriptingLanguage.EvaluateBool*:
 New code for first layer of parsing
 _
+bool isTrue = false;
+ops[i] = ops[i].Trim();
+if (ops[i] == m_opBool[2])
+  isTrue = values[i] != values[i + 1];
+else if (ops[i] == m_opBool[3])
+  isTrue = values[i] != values[i + 1];
+else if (ops[i] != m_opBool[0] && ops[i] != m_opBool[1])
+  Error("Operator '" + ops[i] + "' not supported.");
 else
   isTrue = (bool)values[i].Data;
 vars.Add(isTrue);
