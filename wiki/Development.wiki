@@ -22,13 +22,16 @@ This is the planned development of gCode SL. Development will proceed in linear 
 
 *_Beta_* -> If-statements, loops, operators _v.5.0.0_:
   * Basic operators for strings, ints, and doubles: *supported* _v.5.8.3_
-    - This means that the declare line preceder allows varaibles to be operated upon (+-/x)
-  * If-then statements: not supported _v.6.6.7_
-    - Boolean if-then statements
-  * Elsif-else statements: not supported _v.7.5.0_
-    - Extending if-then functionality
-  * While loops: not supported _v.8.3.3_
+    - This means that the declare line preceder allows varaibles to be operated upon 
+(+-/x)
+  * Parenthetical operators for arranging order of operations *supported*
+    - This means that you can force order of operations.
+  * While loops: *supported* _v.6.6.7_
     - Repeat the loop until the boolean condition evaluates to false
+  * If-then statements: not supported _v.7.5.0_
+    - Boolean if-then statements
+  * Elseif-else statements: not supported  _v.8.3.3_
+    - Extending if-then functionality
   * For-loops: not supported _v.9.1.7_
     - A special kind of while loop that allows you to iterate a variable until it fails to satisfy some boolean condition
   * Nested loops & statemetns: not supported _v.1.0.0_
