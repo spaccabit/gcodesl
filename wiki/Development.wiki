@@ -34,5 +34,5 @@ This is the planned development of gCode SL. Development will proceed in linear 
     - Extending if-then functionality
   * For-loops: not supported _v.9.1.7_
     - A special kind of while loop that allows you to iterate a variable until it fails to satisfy some boolean condition
-  * Nested loops & statemetns: not supported _v.1.0.0_
+  * Nested loops & statements: not supported _v.1.0.0_
     - Allowing for all loops and statements to be infinitely nested inside one another and themselves. 
